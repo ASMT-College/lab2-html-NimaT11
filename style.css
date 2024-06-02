@@ -1,0 +1,18 @@
+*{
+    font-size: 20px;
+}
+form{
+    margin: 30px 30px;
+    padding-right:550px;
+}
+
+button{
+    margin: 5px 0px;
+    padding: 2px 10px;
+    border-color: rgb(106, 173, 231);
+}
+
+button:hover{
+    background-color: rgb(213, 247, 211);
+    border-color: rgb(113, 113, 113);
+}
